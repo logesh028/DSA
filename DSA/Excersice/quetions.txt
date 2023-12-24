@@ -1,0 +1,19 @@
+Reverse a String: Write a program that takes a string as input and outputs the reverse of that string.
+
+Find the Missing Number: Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the missing number in the array.
+
+Check Palindrome: Write a program to check if a given string is a palindrome or not.
+
+Two Sum: Given an array of integers, find two numbers such that they add up to a specific target number.
+
+Fibonacci Series: Write a program to generate the Fibonacci series up to a certain number of terms.
+
+Sorting Algorithms: Implement a sorting algorithm such as Bubble Sort, Selection Sort, or Merge Sort.
+
+Binary Search: Write a program to implement the binary search algorithm to search for an element in a sorted array.
+
+Matrix Multiplication: Write a program to perform matrix multiplication for two given matrices.
+
+Linked List Operations: Implement operations for a singly linked list such as insertion, deletion, and traversal.
+
+Factorial: Write a program to calculate the factorial of a given number.
